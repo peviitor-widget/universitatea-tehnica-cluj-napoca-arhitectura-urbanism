@@ -1,0 +1,308 @@
+[
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/jbArhitect",
+    "title": "Arhitect Proiectant",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:07:42.764Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare arhitectura",
+      "Documentatie tehnica"
+    ],
+    "matchPercentage": 70,
+    "reason": "Proiectare arhitecturala, dar cerinta min. 2 ani experienta depaseste nivelul de student"
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/Arhitect",
+    "title": "Arhitect / Arhitect stagiar",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:06:10.218Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare arhitectura",
+      "Colaborare echipa"
+    ],
+    "matchPercentage": 65,
+    "reason": "Proiectare arhitecturala si documentatie tehnica, dar cerinta min. 2 ani experienta este un obstacol"
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/Arhitect-Arhitect-stagiar",
+    "title": "Arhitect/Arhitect stagiar",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:06:10.218Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare arhitectura",
+      "Documentatie tehnica"
+    ],
+    "matchPercentage": 65,
+    "reason": "Similar cu jobul anterior, potrivit ca domeniu dar experienta ceruta este peste nivelul curent"
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/ArhitectArhitectstagiar",
+    "title": "Arhitect / Arhitect stagiar",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:04:20.726Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare arhitectura",
+      "Relevee"
+    ],
+    "matchPercentage": 65,
+    "reason": "Proiectare arhitecturala relevanta, cerinta de experienta este principala restrictie"
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/arhitect-de-interior-40",
+    "title": "Arhitect de Interior",
+    "company": "ARDESIGN CO SRL",
+    "location": [
+      "Voluntari, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-05T11:59:44.605Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare arhitectura",
+      "Receptie cerinte"
+    ],
+    "matchPercentage": 75,
+    "reason": "Proiectare de arhitectura de interior, domeniu relevant pentru competentele dobandite"
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/arhitect-constructii-civile-manager-proiect-2",
+    "title": "ARHITECT CONSTRUCTII CIVILE / MANAGER PROIECT",
+    "company": "ARCADIA MASTER DESIGN SOLUTIONS S.R.L.",
+    "location": [
+      "Strada Dr. Iacob Felix, Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-05T11:59:34.902Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare arhitectura",
+      "Management proiect"
+    ],
+    "matchPercentage": 70,
+    "reason": "Proiectare constructii civile si management de proiect, domenii acoperite de pregatire"
+  },
+  {
+    "url": "https://multijobs.ro/job/arhitect-proiectant-constructii/1574",
+    "title": "Arhitect Proiectant Construcții",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-05T11:57:18.414Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare arhitectura",
+      "Documentatie tehnica"
+    ],
+    "matchPercentage": 75,
+    "reason": "Proiectare constructii, aliniat cu competentele de proiectare arhitecturala si documentatie tehnica"
+  },
+  {
+    "url": "https://erpahr.ro/jobs?ref=489&amp;title=inginer-proiectant-mobilier",
+    "title": "Inginer Proiectant Mobilier",
+    "company": "ERPA HR SERVICES S.R.L.",
+    "location": [
+      "Ploiești, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:08:40.431Z",
+    "status": "scraped",
+    "tags": [
+      "Detalii de execuție",
+      "Documentație tehnică"
+    ],
+    "matchPercentage": 35,
+    "reason": "Aproape de desenul de proiect și documentația tehnică, dar domeniul este mobila/fabricare CAD-CAM CNC."
+  },
+  {
+    "url": "https://erpahr.ro/jobs?ref=463&amp;title=inginer-proiectant-junior",
+    "title": "Inginer Proiectant Junior",
+    "company": "ERPA HR SERVICES S.R.L.",
+    "location": [
+      "Câmpina,Ploiești,Brebu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:07:02.977Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare amenajări",
+      "Reprezentare grafică"
+    ],
+    "matchPercentage": 80,
+    "reason": "Proiectare de amenajări interioare: releveu, concept, plan de finisaje, axonometrice în Allplan/AutoCAD — foarte aproape de arhitectură."
+  },
+  {
+    "url": "https://leviatan.ro/inginer-proiectant-constructii-civile-si-industriale/",
+    "title": "Inginer proiectant construcții civile și industriale",
+    "company": "LEVIATAN MANAGEMENT SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:04:22.763Z",
+    "status": "scraped",
+    "tags": [
+      "Proiecte tehnice",
+      "Detalii de execuție"
+    ],
+    "matchPercentage": 55,
+    "reason": "Proiectare de clădiri — redactarea proiectelor tehnice și a detaliilor de execuție se potrivesc parțial cu profilul tău."
+  },
+  {
+    "url": "https://multijobs.ro/job/arhitect-urbanist/2336",
+    "title": "Arhitect/Urbanist",
+    "company": "LEF PROIECT SRL",
+    "location": [
+      "Bacau, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-05T11:42:20.834Z",
+    "status": "scraped",
+    "tags": [
+      "proiectare arhitectura",
+      "proiecte urbanistice"
+    ],
+    "matchPercentage": 90,
+    "reason": "Competentele de proiectare arhitecturala si elaborare proiecte urbanistice (PUG/PUZ/PUD) se potrivesc direct cu postul."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/arhitect-sau-urbanist/1979103",
+    "title": "Arhitect sau Urbanist",
+    "company": "AHMED DELIVERY S.R.L. S.R.L.",
+    "location": [
+      "Sibiu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-01T13:14:53.091Z",
+    "status": "scraped",
+    "tags": [
+      "proiectare arhitectura",
+      "analiza urbana"
+    ],
+    "matchPercentage": 90,
+    "reason": "Birou de arhitectura si urbanism, potrivit pentru competentele de proiectare arhitecturala si urbana, inclusiv analiza contextuala a sitului."
+  },
+  {
+    "url": "https://multijobs.ro/job/3d-artist-3d-modeling-arhitect/2275",
+    "title": "3D Artist - 3D Modeling - Arhitect",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-05T11:54:06.955Z",
+    "status": "scraped",
+    "tags": [
+      "Reprezentare grafica",
+      "Proiectare arhitectura"
+    ],
+    "matchPercentage": 85,
+    "reason": "Pozitie dedicata architectilor - modelare 3D si vizualizare arhitecturala, direct pe profilul tau."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/junior-3d-environment-artist-only-romania-2",
+    "title": "Junior 3D Environment Artist (only Romania)",
+    "company": "GAYA STUDIO BUCHAREST S.R.L.",
+    "location": [
+      "Green Gate, Bulevardul Tudor Vladimirescu 22, București, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-05T11:53:36.322Z",
+    "status": "scraped",
+    "tags": [
+      "Reprezentare grafica",
+      "Analiza urbana"
+    ],
+    "matchPercentage": 55,
+    "reason": "Mediu 3D/game dev, dar competentele de compozitie spatiala si vizualizare din arhitectura se transfera bine; pozitie junior."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-documentatii-constructii-1",
+    "title": "Specialist documentații construcții",
+    "company": "TAIV DAVID-LUCAS SRL",
+    "location": [
+      "Sannicolau Mare, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-05T12:02:28.844Z",
+    "status": "scraped",
+    "tags": [
+      "Documentatii autorizatie construire",
+      "Redactare proiecte tehnice"
+    ],
+    "matchPercentage": 90,
+    "reason": "Direct pe profilul tau: intocmire documentatii tehnice pentru constructii, inclusiv dosare de autorizatie."
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=688#content",
+    "title": "Reprezentant Tehnic",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:08:46.865Z",
+    "status": "scraped",
+    "tags": [
+      "planificare spatiala",
+      "analiza urbana"
+    ],
+    "matchPercentage": 60,
+    "reason": "Postul presupune lucru cu GIS și date spațiale, direct relevant pentru planificare spațială și analiză urbană."
+  },
+  {
+    "url": "https://cariere.penny.ro/joburi/aplica/logistica#40",
+    "title": "Ingrijitor Cladiri (Salubritate) - Depozit Turda",
+    "company": "PENNY BILL TRADE SRL",
+    "location": [
+      "Turda, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:05:42.817Z",
+    "status": "scraped",
+    "tags": [
+      "patrimoniu construit",
+      "documentare istorica"
+    ],
+    "matchPercentage": 40,
+    "reason": "Domeniul restaurării monumentelor se suprapune cu patrimoniul construit și documentarea istorică, deși postul vizează opere de artă și cere studii medii."
+  },
+  {
+    "url": "https://cariere.penny.ro/joburi/aplica/logistica#44",
+    "title": "Ingrijitor Cladiri (Salubritate) - Depozit Turda",
+    "company": "PENNY BILL TRADE SRL",
+    "location": [
+      "Turda, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-17T13:05:36.848Z",
+    "status": "scraped",
+    "tags": [
+      "patrimoniu construit",
+      "documentare istorica"
+    ],
+    "matchPercentage": 40,
+    "reason": "Potrivire parțială pe patrimoniu construit și documentare istorică; nivelul cerut (studii medii) și orientarea spre opere de artă limitează potrivirea."
+  }
+]
