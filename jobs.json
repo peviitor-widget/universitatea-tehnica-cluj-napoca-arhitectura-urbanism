@@ -1,71 +1,105 @@
 [
   {
-    "url": "https://8ore.ro/locuri-de-munca/arhitect",
-    "title": "ARHITECT",
-    "company": "PROPERTY LAB SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/arhitect-junior-76",
+    "title": "Arhitect junior",
+    "company": "NEURONY SOLUTIONS SRL",
     "location": [
-      "Ploiesti, Romania"
+      "Soseaua Orhideelor 15A, 060071 Bucuresti, Romania,Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-08T15:20:31.157Z",
+    "date": "2026-10-09T15:27:32.941Z",
     "status": "scraped",
     "tags": [
       "proiectare arhitecturala",
-      "modelare BIM"
-    ],
-    "matchPercentage": 95,
-    "reason": "Arhitect stagiar/junior cu AutoCAD/Revit, modelare 3D, DTAC/PT si indrumare OAR - potrivire ideala."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/arhitect-junior-73",
-    "title": "Arhitect Junior",
-    "company": "2DA ATELIER S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-08T15:18:34.990Z",
-    "status": "scraped",
-    "tags": [
-      "documentatii autorizatie",
-      "proiectare arhitecturala"
-    ],
-    "matchPercentage": 95,
-    "reason": "Arhitect junior cu stagiatura, fazele CU/DTAC/PT+DE si lucru in echipa multidisciplinara - potrivire ideala."
-  },
-  {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/bridge-structures-designer/100471",
-    "title": "Bridge / Structures Designer",
-    "company": "EVOLVE TODAY SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-08T15:22:26.758Z",
-    "status": "scraped",
-    "tags": [
-      "analiza si proiectarea structurilor pe fundatie",
-      "rezistenta si stabilitate"
+      "junior"
     ],
     "matchPercentage": 90,
-    "reason": "Proiectare poduri/structuri - se potrivește direct cu analiză structurală, rezistență și stabilitate."
+    "reason": "Arhitect junior, potrivire directa de domeniu si nivel."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-structurist-proiectare-59",
-    "title": "Inginer structurist-proiectare",
-    "company": "ADVANCED TECHNICAL SOLUTIONS AND DESIGN SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/arhitect-715",
+    "title": "ARHITECT",
+    "company": "YDA PROIECT CONSULTING SRL",
     "location": [
-      "Mioveni 115400, Romania,Pitești, Romania,Topoloveni, Romania,Curtea de Arges 115300, Romania,Campulung, Romania"
+      "Strada Vistierilor 22, Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-08T15:24:50.509Z",
+    "date": "2026-10-09T15:29:39.535Z",
     "status": "scraped",
     "tags": [
-      "analiza si proiectarea structurilor pe fundatie",
-      "rezistenta si stabilitate"
+      "proiectare arhitecturala",
+      "documentatii tehnice"
     ],
-    "matchPercentage": 90,
-    "reason": "Inginer structurist-proiectare - foarte relevant pentru structuri, fundații, rezistență."
+    "matchPercentage": 85,
+    "reason": "Rol de arhitect cu sarcini de proiectare arhitecturala, nivel entry/junior acceptabil."
+  },
+  {
+    "url": "https://multijobs.ro/job/arhitect-cladiri/6163",
+    "title": "ARHITECT CLADIRI",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Satu Mare, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-09T15:29:18.132Z",
+    "status": "scraped",
+    "tags": [
+      "proiectare arhitecturala",
+      "CAD"
+    ],
+    "matchPercentage": 85,
+    "reason": "Arhitect cladiri, domeniu direct de proiectare arhitecturala la nivel accesibil."
+  },
+  {
+    "url": "https://multijobs.ro/job/arhitect/323",
+    "title": "Arhitect",
+    "company": "CSC CONSTRUCTION SRL",
+    "location": [
+      "Cluj-Napoca, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-09T15:26:54.568Z",
+    "status": "scraped",
+    "tags": [
+      "proiectare arhitecturala",
+      "BIM"
+    ],
+    "matchPercentage": 85,
+    "reason": "Rol de arhitect la Cluj-Napoca, domeniu si nivel potrivit."
+  },
+  {
+    "url": "https://jobs.arcadis.com/careers/job/563671532887266",
+    "title": "Civil 3D Designer",
+    "company": "ARCADIS SRL",
+    "location": [
+      "Bucuresti,Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-09T15:12:01.593Z",
+    "status": "scraped",
+    "tags": [
+      "proiectare urbana",
+      "CAD"
+    ],
+    "matchPercentage": 85,
+    "reason": "Proiectare urbană și desen tehnic 2D/3D în echipa de urban development, potrivit pentru absolvenți."
+  },
+  {
+    "url": "https://jobs.arcadis.com/careers/job/563671533028631",
+    "title": "BIM Coordinator",
+    "company": "ARCADIS SRL",
+    "location": [
+      "Iași,Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-09T15:29:31.457Z",
+    "status": "scraped",
+    "tags": [
+      "modelare BIM",
+      "reprezentari 3D"
+    ],
+    "matchPercentage": 80,
+    "reason": "Coordonare de modele BIM pentru cladiri, foloseste direct competentele de modelare BIM la un nivel potrivit."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/specialist-documentatii-constructii-1",
@@ -75,82 +109,63 @@
       "Sannicolau Mare, Romania"
     ],
     "salary": null,
-    "date": "2026-10-07T15:21:02.679Z",
+    "date": "2026-10-09T15:09:47.615Z",
     "status": "scraped",
     "tags": [
-      "documentații construcții",
-      "proiectare arhitecturală"
+      "documentatii tehnice",
+      "autorizatie"
     ],
-    "matchPercentage": 88,
-    "reason": "Întocmirea documentațiilor pentru construcții folosește direct competențele de PAC/PTh și proiectare arhitecturală."
+    "matchPercentage": 76,
+    "reason": "Specialist documentatii constructii foloseste competentele de documentatii tehnice si autorizatii."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/desenator-tehnic-cad-arhitectura-si-structura",
-    "title": "Desenator tehnic CAD arhitectura si structura",
-    "company": "BOGDY SPEDITION BUSINESS S.R.L.",
+    "url": "https://jobs.arcadis.com/careers/job/563671532663800",
+    "title": "BIM Coordinator",
+    "company": "ARCADIS SRL",
     "location": [
-      "Remote, Romania"
+      "Bucuresti,Iași, Romania"
     ],
     "salary": null,
-    "date": "2026-10-07T15:24:12.633Z",
+    "date": "2026-10-09T15:02:02.874Z",
     "status": "scraped",
     "tags": [
-      "aplicatii CAD",
-      "proiectare arhitecturala"
+      "modelare BIM"
     ],
-    "matchPercentage": 86,
-    "reason": "Desen tehnic CAD explicit pentru arhitectura si structuri, potrivire directa cu competentele de proiectare si AutoCAD."
+    "matchPercentage": 76,
+    "reason": "Coordonator BIM intermediar pentru proiecte de constructii, nivel si domeniu potrivite."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3365378",
-    "title": "INGINER CONSTRUCTII CIVILE, INDUSTRIALE SI AGRICOLE",
-    "company": "BATI-AL FACADES S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/desenator-tehnic-proiectare-constructii-autocad-9",
+    "title": "Desenator Tehnic proiectare constructii – AutoCAD",
+    "company": "ATOMEDICAL VEST SRL",
     "location": [
-      "Oras pantelimon, Romania"
+      "Ploiesti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-08T15:27:09.108Z",
+    "date": "2026-10-09T15:21:04.605Z",
     "status": "scraped",
     "tags": [
-      "dimensionare si structura",
-      "proiectare arhitecturala"
+      "AutoCAD",
+      "proiectare"
     ],
-    "matchPercentage": 85,
-    "reason": "Construcții civile se potrivește direct cu PTh, dimensionare, structură și proiectare."
+    "matchPercentage": 72,
+    "reason": "Desenator tehnic constructii in AutoCAD foloseste direct competentele de CAD si reprezentare tehnica."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-constructor-proiectare-structuri-in-axisvm",
-    "title": "Inginer Constructor–Proiectare Structuri în AxisVM",
-    "company": "DM ITALIAN SOFA S.R.L.",
+    "url": "https://www.accenture.com/ro-en/careers/jobdetails?id=R00351477_en&amp;title=BIM+Consultant+with+German",
+    "title": "BIM Consultant with German",
+    "company": "ACCENTURE BOARD SRL",
     "location": [
-      "Timișoara, Romania"
+      "Cluj-Napoca,Târgu Mureș,Timișoara, Romania"
     ],
     "salary": null,
-    "date": "2026-10-08T15:22:53.213Z",
+    "date": "2026-10-09T15:12:21.463Z",
     "status": "scraped",
     "tags": [
-      "rezistență și stabilitate",
-      "structuri"
+      "modelare BIM"
     ],
-    "matchPercentage": 82,
-    "reason": "Proiectare de structuri de rezistență cu AxisVM intră direct în competențele de rezistenta si stabilitate și dimensionare învățate la arhitectură."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3405405",
-    "title": "ARHITECT CLADIRI",
-    "company": "ARHICON-BUILDING SRL",
-    "location": [
-      "Focsani, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-08T15:21:53.343Z",
-    "status": "scraped",
-    "tags": [
-      "proiectare arhitecturala",
-      "documentatii autorizatie"
-    ],
-    "matchPercentage": 80,
-    "reason": "Post de arhitect de cladiri cu experienta putina (sub 3 ani), nivel si domeniu potrivite."
+    "matchPercentage": 68,
+    "reason": "Consultanta BIM pentru proiecte de constructii, potrivire partiala de domeniu la nivel adecvat."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/specialist-cadastru-gis-topograf",
@@ -160,150 +175,82 @@
       "Strada Lucian Blaga, Timișoara, Romania"
     ],
     "salary": null,
-    "date": "2026-10-08T15:16:47.474Z",
+    "date": "2026-10-09T15:10:05.570Z",
     "status": "scraped",
     "tags": [
       "cadastru",
       "GIS"
     ],
-    "matchPercentage": 80,
-    "reason": "Specialist cadastru și GIS/topograf, potrivire directă de domeniu și nivel."
+    "matchPercentage": 68,
+    "reason": "Specialist cadastru & GIS intr-o firma de investitii imobiliare, se potriveste partial cu domeniile cadastru/GIS si management teritorial la nivel de inceput."
   },
   {
-    "url": "https://multijobs.ro/job/arhitect-urbanist/2336",
-    "title": "Arhitect/Urbanist",
-    "company": "LEF PROIECT SRL",
+    "url": "https://jobs.arcadis.com/careers/job/563671532911732",
+    "title": "Structures - BIM Modeler",
+    "company": "ARCADIS SRL",
     "location": [
-      "Bacau, Romania"
+      "Iași,Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-08T15:18:32.405Z",
-    "status": "scraped",
-    "tags": [
-      "urban design",
-      "planificare urbanistica"
-    ],
-    "matchPercentage": 78,
-    "reason": "Post de arhitect/urbanist, domeniu potrivit direct, desi descrierea nu precizeaza nivelul."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-topo-cadastru-ancpi-full-time",
-    "title": "Inginer topo-cadastru ANCPI full time",
-    "company": "GEODATA SERVICES S.R.L.",
-    "location": [
-      "București, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-08T15:23:46.751Z",
-    "status": "scraped",
-    "tags": [
-      "cadastru",
-      "GIS"
-    ],
-    "matchPercentage": 78,
-    "reason": "Inginer topo-cadastru folosește direct competențele de cadastru și GIS."
-  },
-  {
-    "url": "https://jobzz.ro/angajare-personal-cadastru-topografie-geodezie-pentru-birou-anunt_889476.html",
-    "title": "Angajare personal cadastru-topografie-geodezie pentru birou Pitesti",
-    "company": "JOBZZLE CONNECT S.R.L.",
-    "location": [
-      "Pitești, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-08T15:14:56.513Z",
-    "status": "scraped",
-    "tags": [
-      "cadastru",
-      "topografie"
-    ],
-    "matchPercentage": 76,
-    "reason": "Personal cadastru-topografie-geodezie, folosește competențele de cadastru și CAD."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-geodez-topografie-si-cadastru-7",
-    "title": "Inginer geodez/topografie si cadastru",
-    "company": "ATI URBAN S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:26:06.843Z",
-    "status": "scraped",
-    "tags": [
-      "cadastru",
-      "topografie"
-    ],
-    "matchPercentage": 76,
-    "reason": "Inginer geodez/topografie și cadastru, domeniu direct potrivit."
-  },
-  {
-    "url": "https://multijobs.ro/job/angajam-inginer-geodez-departament-cadastru/1343",
-    "title": "Angajam Inginer geodez - Departament cadastru",
-    "company": "SAGRADO GROUP S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:09:09.279Z",
-    "status": "scraped",
-    "tags": [
-      "cadastru",
-      "topografie"
-    ],
-    "matchPercentage": 76,
-    "reason": "Inginer geodez în departamentul cadastru, potrivire de domeniu."
-  },
-  {
-    "url": "https://multijobs.ro/job/designer-de-interior-arhitect/2345",
-    "title": "Designer de interior/ Arhitect",
-    "company": "KITCHEN TOTAL SOLUTION S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-08T15:20:44.405Z",
-    "status": "scraped",
-    "tags": [
-      "design de interior",
-      "reprezentari 3D"
-    ],
-    "matchPercentage": 75,
-    "reason": "Design de interior/ arhitect la birou de bucatarii, domeniu compatibil cu competentele de proiectare si reprezentari 3D."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/arhitect-constructii-civile-5",
-    "title": "Arhitect constructii civile",
-    "company": "TTG-GROUP S.R.L.",
-    "location": [
-      "Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-08T15:23:07.499Z",
-    "status": "scraped",
-    "tags": [
-      "proiectare arhitecturala",
-      "reprezentari 3D"
-    ],
-    "matchPercentage": 72,
-    "reason": "Arhitect constructii civile - domeniul de proiectare arhitecturala se potriveste direct, nivel nedeterminat."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272256/AECOM-/BIM-Coordinator",
-    "title": "BIM Coordinator",
-    "company": "AECOM INGENIERIA SRL",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-08T15:26:46.368Z",
+    "date": "2026-10-09T15:00:27.506Z",
     "status": "scraped",
     "tags": [
       "modelare BIM",
-      "proiectare arhitecturala"
+      "rezistenta si stabilitate"
     ],
-    "matchPercentage": 72,
-    "reason": "Coordonare BIM pentru proiecte de constructii, foloseste direct competenta de modelare BIM (Revit/ArchiCAD)."
+    "matchPercentage": 65,
+    "reason": "Modelare BIM pentru structuri, potrivire partiala de domeniu la nivel de modeler."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/arhitect-designer-proiectare-vanzare-mobilier-3",
+    "title": "Arhitect/ Designer - Proiectare vanzare mobilier",
+    "company": "AMPLIUS 2000 SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-09T15:21:45.500Z",
+    "status": "scraped",
+    "tags": [
+      "design interior",
+      "reprezentari 3D"
+    ],
+    "matchPercentage": 62,
+    "reason": "Proiectare de mobilier foloseste competente de design, dar include si vanzare."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/proiectant-inginer-constructii-utilizator-revit-solibri/1986789",
+    "title": "Proiectant inginer constructii - utilizator REVIT (+Solibri)",
+    "company": "VCE VIENNA CONSULTING ENGINEERS SRL",
+    "location": [
+      "Clujnapoca, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-09T15:02:35.313Z",
+    "status": "scraped",
+    "tags": [
+      "modelare BIM",
+      "rezistenta si stabilitate"
+    ],
+    "matchPercentage": 62,
+    "reason": "Proiectare constructii cu REVIT, domeniu partial apropiat la nivel mid."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3399041",
+    "title": "RESTAURATOR OPERE DE ARTA SI MONUMENTE ISTORICE (STUDII MEDII)",
+    "company": "AXP PICTURES S.R.L.",
+    "location": [
+      "Municipiul curtea de arges, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-09T15:27:51.696Z",
+    "status": "scraped",
+    "tags": [
+      "restaurare",
+      "monumente"
+    ],
+    "matchPercentage": 60,
+    "reason": "Restaurarea de monumente se suprapune cu o arie de specializare, dar nivelul mediu de educație și accentul pe artă o fac parțială."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/operator-date-cadastru-junior-32",
@@ -313,197 +260,13 @@
       "sector 2, BUCURESTI, Romania"
     ],
     "salary": null,
-    "date": "2026-10-08T15:18:59.117Z",
+    "date": "2026-10-09T15:02:19.910Z",
     "status": "scraped",
     "tags": [
       "cadastru",
       "GIS"
     ],
-    "matchPercentage": 72,
-    "reason": "Operator date cadastru junior, nivel entry și domeniu GIS/cadastru potrivit."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/arhitect-699",
-    "title": "Arhitect",
-    "company": "ENVISION CONSTRUCTION &amp;AMP; DESIGN S.R.L.",
-    "location": [
-      "Piata Victoriei, Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-08T15:26:21.701Z",
-    "status": "scraped",
-    "tags": [
-      "proiectare arhitecturala",
-      "documentatii autorizatie"
-    ],
-    "matchPercentage": 70,
-    "reason": "Post de arhitect in birou de proiectare, domeniu potrivit, desi nu se precizeaza nivelul de experienta."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272255/AECOM-/BIM-Coordinator-–-Data-Centers",
-    "title": "BIM Coordinator – Data Centers",
-    "company": "AECOM INGENIERIA SRL",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-08T15:26:46.368Z",
-    "status": "scraped",
-    "tags": [
-      "modelare BIM",
-      "documentatii tehnice"
-    ],
-    "matchPercentage": 67,
-    "reason": "Coordonare BIM pe proiecte de constructii (data centers), relevanta pentru competenta de modelare BIM, dar cu accent tehnic specializat."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/inginer-proiectant-instalatii-sanitare/1984951",
-    "title": "INGINER PROIECTANT INSTALATII SANITARE",
-    "company": "DARIUS CONSULTING SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-08T15:26:59.090Z",
-    "status": "scraped",
-    "tags": [
-      "Aplicatii CAD",
-      "Documentatii PTh"
-    ],
-    "matchPercentage": 66,
-    "reason": "Proiectare in constructii (faze PTh/DTAC, AutoCAD, Revit) intr-un birou de arhitectura-urbanism - relevanta directa pentru documentatiile tehnice, desi specializarea e de instalatii."
-  },
-  {
-    "url": "https://jobs.engie.com/distrigaz/job/Analist-GIS-%28Bucuresti%29/72803-en_US/",
-    "title": "Analist GIS (Bucuresti)",
-    "company": "DISTRIGAZ SUD RETELE SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:16:41.408Z",
-    "status": "scraped",
-    "tags": [
-      "GIS",
-      "CAD"
-    ],
-    "matchPercentage": 66,
-    "reason": "Analist GIS folosește direct competențele de GIS și prelucrare date spațiale, nivel entry."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/arhitect-inginer-proiectant-autorizatii-isu",
-    "title": "arhitect/inginer proiectant - autorizatii ISU",
-    "company": "ZFR INSTAL SRL",
-    "location": [
-      "Strada Cezar Bolliac 28, Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-08T15:18:12.632Z",
-    "status": "scraped",
-    "tags": [
-      "documentatii autorizatie"
-    ],
-    "matchPercentage": 65,
-    "reason": "Proiectant arhitect pentru autorizatii ISU - relateaza la documentatiile de autorizare, dar este un domeniu specializat, cu potrivire partiala."
-  },
-  {
-    "url": "https://8ore.ro/locuri-de-munca/inginer-proiectant-mobilier",
-    "title": "Inginer proiectant Mobilier",
-    "company": "NEXT EVENT S.R.L.",
-    "location": [
-      "Otopeni, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-08T15:27:20.479Z",
-    "status": "scraped",
-    "tags": [
-      "Aplicatii CAD"
-    ],
-    "matchPercentage": 64,
-    "reason": "Proiectare tehnica in AutoCAD pentru mobilier - foloseste direct competenta de desen tehnic/CAD, dar intr-un domeniu adiacent arhitecturii."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/desenator-tehnic-autocad-8",
-    "title": "Desenator tehnic autocad",
-    "company": "INFRA &amp; CIVIL CONSULTING SRL",
-    "location": [
-      "București, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-08T15:23:14.170Z",
-    "status": "scraped",
-    "tags": [
-      "aplicatii CAD",
-      "planificare urbanistica"
-    ],
-    "matchPercentage": 63,
-    "reason": "Desen tehnic AutoCAD in consultanta de infrastructura, relevant pentru documentatii tehnice si planuri de urbanism/infrastructura."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-ofertare-proiectare-11",
-    "title": "Inginer Ofertare Proiectare",
-    "company": "MIMOC PREST SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-08T15:26:23.415Z",
-    "status": "scraped",
-    "tags": [
-      "documentații tehnice",
-      "proiectare"
-    ],
-    "matchPercentage": 62,
-    "reason": "Ofertarea de proiectare folosește parțial competențe tehnice de proiectare și documentație, dar rolul e mai degrabă comercial decât de proiectare pură."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000139009890-cad-engineer",
-    "title": "CAD Engineer",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-08T13:10:00.906Z",
-    "status": "scraped",
-    "tags": [
-      "aplicatii CAD",
-      "documentatii tehnice"
-    ],
-    "matchPercentage": 62,
-    "reason": "Drafting tehnic si planificarea spatiului pentru constructii de productie, care foloseste direct CAD si documentatii tehnice pentru constructii."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-constructii-civile-477",
-    "title": "Inginer construcții civile",
-    "company": "INFRA-TELECOM CONSTRUCT S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-08T15:27:17.819Z",
-    "status": "scraped",
-    "tags": [
-      "structuri",
-      "documentatii tehnice"
-    ],
-    "matchPercentage": 62,
-    "reason": "Domeniul constructiilor se potriveste partial cu competentele tehnice de proiectare si structuri, la nivel entry."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/proiectant-mobila-43",
-    "title": "Proiectant mobila",
-    "company": "ALCA MOBILI FURNITURE S.R.L.",
-    "location": [
-      "707306 Balciu, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-08T15:27:17.819Z",
-    "status": "scraped",
-    "tags": [
-      "Aplicatii CAD"
-    ],
-    "matchPercentage": 61,
-    "reason": "Proiectare de mobilier - activitate de proiectare bazata pe CAD, partial relevanta pentru competentele tale tehnice."
+    "matchPercentage": 60,
+    "reason": "Operator date cadastru junior, potrivire partiala pe domeniul cadastru la nivel de inceput."
   }
 ]
