@@ -1,1 +1,162 @@
-[]
+[
+  {
+    "url": "https://jobs.arcadis.com/careers/job/563671532663800",
+    "title": "BIM Coordinator",
+    "company": "ARCADIS SRL",
+    "location": [
+      "Bucuresti",
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:38.320Z",
+    "status": "scraped",
+    "tags": [
+      "modelare BIM",
+      "proiectare arhitecturală"
+    ],
+    "matchPercentage": 78,
+    "reason": "Coordonare BIM într-un birou global de design și inginerie, competență directă (Revit/BIM) la nivel intermediate/mid."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/UGD5eq04pv",
+    "title": "Inginer Proiectare Constructii",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca"
+    ],
+    "salary": null,
+    "date": "2026-10-16T10:59:16Z",
+    "status": "scraped",
+    "tags": [
+      "dimensionare si structura",
+      "structuri pe fundatie"
+    ],
+    "matchPercentage": 72,
+    "reason": "Proiectare de fundatii si structuri cu dimensionare si documentatii tehnice de proiect, competente tehnice comune cu profilul de arhitectura."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/7LMwg2NYRW",
+    "title": "Inginer Proiectare Constructii",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Bucuresti"
+    ],
+    "salary": null,
+    "date": "2026-10-16T10:59:16Z",
+    "status": "scraped",
+    "tags": [
+      "dimensionare si structura",
+      "structuri pe fundatie"
+    ],
+    "matchPercentage": 72,
+    "reason": "Identic cu postul din Cluj: proiectare structuri si fundatii, dimensionare si documentatii tehnice, potrivire partiala cu competentele tehnice."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272914/Emerson/Internship-Drafter-(12-Months)",
+    "title": "Internship Drafter (12 Months)",
+    "company": "EMERSON SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:34.775Z",
+    "status": "scraped",
+    "tags": [
+      "aplicatii CAD",
+      "reprezentari 3D"
+    ],
+    "matchPercentage": 68,
+    "reason": "Internship de drafter care folosește desenul tehnic și CAD, competențe transferabile direct din proiectarea arhitecturală."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-proiectant-instalatii-sanitare-si-hvac-3",
+    "title": "Inginer proiectant instalatii sanitare si HVAC",
+    "company": "PHOTOVOLTAIC SYSTEMS SRL",
+    "location": [
+      "Bulevardul Pache Protopopescu 21",
+      "Bucuresti 030167",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:34.775Z",
+    "status": "scraped",
+    "tags": [
+      "termotehnica",
+      "izolatie termica"
+    ],
+    "matchPercentage": 65,
+    "reason": "Proiectare instalații sanitare și HVAC pentru clădiri, parțial relevant prin competențele de termotehnica, izolație termică și colaborare cu proiectanții de arhitectură."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-proiectant-instalatii-hvac-103",
+    "title": "Inginer proiectant instalatii HVAC",
+    "company": "ECO TERM S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:27.997Z",
+    "status": "scraped",
+    "tags": [
+      "termotehnica",
+      "izolatie termica"
+    ],
+    "matchPercentage": 65,
+    "reason": "Proiectare instalații HVAC pentru clădiri, domeniu adiacent arhitecturii prin termotehnica, izolația termică și coordonarea în cadrul documentațiilor tehnice."
+  },
+  {
+    "url": "https://leviatan.ro/inginer-proiectant-instalatii-sanitare/",
+    "title": "Inginer Proiectant Instalații Sanitare",
+    "company": "LEVIATAN MANAGEMENT SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:15.074Z",
+    "status": "scraped",
+    "tags": [
+      "termotehnica",
+      "BIM"
+    ],
+    "matchPercentage": 65,
+    "reason": "Instalatiile sanitare sunt partial relevante pentru constructii, insa nu constituie o activitate de proiectare arhitecturala sau urbanism."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000139009890",
+    "title": "CAD Engineer",
+    "company": "DEN BOSCH GROUP SRL",
+    "location": [
+      "Jucu",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:02:55.716Z",
+    "status": "scraped",
+    "tags": [
+      "aplicatii CAD",
+      "proiectare arhitecturală"
+    ],
+    "matchPercentage": 65,
+    "reason": "Drafting tehnic CAD pentru planificarea și modernizarea spațiilor într-un proiect de construcție, potrivit ca nivel entry-mid."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000139009890-cad-engineer",
+    "title": "CAD Engineer",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-16T11:06:47.945Z",
+    "status": "scraped",
+    "tags": [
+      "aplicatii CAD",
+      "proiectare arhitecturală"
+    ],
+    "matchPercentage": 65,
+    "reason": "Aceeași poziție de CAD Engineer în construction space planning, relevantă pentru competențele de desen tehnic și CAD."
+  }
+]
