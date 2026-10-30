@@ -12,10 +12,10 @@
     "status": "scraped",
     "tags": [
       "proiectare arhitecturala",
-      "modelare BIM"
+      "modelare 3D"
     ],
-    "matchPercentage": 96,
-    "reason": "Arhitect stagiar/junior cu îndrumare OAR și parcurgerea tuturor fazelor de proiect, potrivire excelentă."
+    "matchPercentage": 95,
+    "reason": "Stagiu/junior cu proiectare, modelare 3D și documentații tehnice, exact pe competențele tale."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3415517",
@@ -30,28 +30,10 @@
     "status": "scraped",
     "tags": [
       "proiectare arhitecturala",
-      "proiectare cladiri"
+      "documentatii tehnice"
     ],
     "matchPercentage": 85,
-    "reason": "Proiectare de clădiri la nivel entry, cu experiență zero, potrivită direct pentru absolvent."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3395167",
-    "title": "ARHITECT CLADIRI",
-    "company": "ARHICON PROIECT SRL",
-    "location": [
-      "Focsani",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:07:25.953Z",
-    "status": "scraped",
-    "tags": [
-      "proiectare arhitecturala",
-      "CAD"
-    ],
-    "matchPercentage": 85,
-    "reason": "Arhitect clădiri cu mai puțin de 3 ani experiență, nivel și domeniu potrivite."
+    "reason": "Proiectare de clădiri la nivel entry-level, fără experiență cerută."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3376139",
@@ -66,171 +48,46 @@
     "status": "scraped",
     "tags": [
       "proiectare arhitecturala",
-      "CAD"
+      "documentatii tehnice"
     ],
-    "matchPercentage": 84,
-    "reason": "Proiectant arhitect fără experiență, rol entry-level direct în domeniul arhitecturii."
+    "matchPercentage": 85,
+    "reason": "Post de proiectant arhitect fără experiență, direct în domeniu."
   },
   {
-    "url": "https://www.cabuzau.ro/despre-noi/cariere/responsabil-gis-departamentul-tehnic/",
-    "title": "Responsabil GIS – Departament Tehnic",
-    "company": "COMPANIA DE APĂ BACĂU SA",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3395167",
+    "title": "ARHITECT CLADIRI",
+    "company": "ARHICON PROIECT SRL",
     "location": [
-      "Buzau",
+      "Focsani",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:07:28.140Z",
+    "date": "2026-10-17T12:07:25.953Z",
     "status": "scraped",
     "tags": [
-      "GIS",
-      "cadastru"
+      "proiectare arhitecturala",
+      "documentatii tehnice"
+    ],
+    "matchPercentage": 85,
+    "reason": "Arhitect clădiri cu mai puțin de 3 ani experiență, nivel potrivit."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3399041",
+    "title": "RESTAURATOR OPERE DE ARTA SI MONUMENTE ISTORICE (STUDII MEDII)",
+    "company": "AXP PICTURES S.R.L.",
+    "location": [
+      "Municipiul curtea de arges",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:09:31.757Z",
+    "status": "scraped",
+    "tags": [
+      "Restaurare",
+      "Monumente"
     ],
     "matchPercentage": 80,
-    "reason": "Post GIS în departament tehnic, care folosește direct competențele de cadastru/GIS la nivel de specialist."
-  },
-  {
-    "url": "https://jobs.arcadis.com/careers/job/563671532911732",
-    "title": "Structures - BIM Modeler",
-    "company": "ARCADIS SRL",
-    "location": [
-      "Iași",
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:11:47.161Z",
-    "status": "scraped",
-    "tags": [
-      "modelare BIM",
-      "structuri"
-    ],
-    "matchPercentage": 78,
-    "reason": "Modelare BIM structurală în echipă de inginerie, potrivire directă cu competențele BIM și structuri."
-  },
-  {
-    "url": "https://jobs.arcadis.com/careers/job/563671532663800",
-    "title": "BIM Coordinator",
-    "company": "ARCADIS SRL",
-    "location": [
-      "Bucuresti",
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:07:52.553Z",
-    "status": "scraped",
-    "tags": [
-      "modelare BIM",
-      "Revit"
-    ],
-    "matchPercentage": 70,
-    "reason": "Coordonare BIM de nivel intermediar, relevantă pentru competențele de modelare BIM."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271882/Arcadis-Global-Excellence-Center/BIM-Coordinator",
-    "title": "BIM Coordinator",
-    "company": "ARCADIS EXCELLENCE CENTER ROMANIA S.A.",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:06:46.475Z",
-    "status": "scraped",
-    "tags": [
-      "modelare BIM",
-      "Revit"
-    ],
-    "matchPercentage": 68,
-    "reason": "BIM Coordinator cu 1-5 ani experiență, potrivire parțială pe modelare și coordonare BIM."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272256/AECOM-/BIM-Coordinator",
-    "title": "BIM Coordinator",
-    "company": "AECOM INGENIERIA SRL",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:06:13.777Z",
-    "status": "scraped",
-    "tags": [
-      "modelare BIM",
-      "Revit"
-    ],
-    "matchPercentage": 65,
-    "reason": "Coordonare BIM în infrastructură, competență BIM relevantă deși domeniul este parțial diferit."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/UGD5eq04pv",
-    "title": "Inginer Proiectare Constructii",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-28T12:22:31Z",
-    "status": "scraped",
-    "tags": [
-      "structuri",
-      "PTh"
-    ],
-    "matchPercentage": 64,
-    "reason": "Proiectare structurală și fundații cu documentații tehnice, potrivire parțială pentru competențele de structuri."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/7LMwg2NYRW",
-    "title": "Inginer Proiectare Constructii",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-28T12:22:31Z",
-    "status": "scraped",
-    "tags": [
-      "structuri",
-      "PTh"
-    ],
-    "matchPercentage": 64,
-    "reason": "Proiectare structurală și fundații cu documentații tehnice, potrivire parțială pentru competențele de structuri."
-  },
-  {
-    "url": "https://www.targuldecariere.ro/companii/e-infra-/18858/inginer-proiectare-constructii",
-    "title": "Inginer Proiectare Constructii",
-    "company": "E-INFRA S.A.",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:19:45.828Z",
-    "status": "scraped",
-    "tags": [
-      "structuri",
-      "PTh"
-    ],
-    "matchPercentage": 64,
-    "reason": "Proiectare structurală și fundații cu documentații tehnice, potrivire parțială pentru competențele de structuri."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272255/AECOM-/BIM-Coordinator-–-Data-Centers",
-    "title": "BIM Coordinator – Data Centers",
-    "company": "AECOM INGENIERIA SRL",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:06:13.777Z",
-    "status": "scraped",
-    "tags": [
-      "modelare BIM",
-      "Revit"
-    ],
-    "matchPercentage": 63,
-    "reason": "Coordonare BIM pentru centre de date, potrivire parțială prin competențe BIM."
+    "reason": "Restoration of historic monuments directly matches monument restoration domain"
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-inginer-autocad-2",
@@ -248,9 +105,187 @@
     "status": "scraped",
     "tags": [
       "AutoCAD",
-      "documentatii tehnice"
+      "Detaliere"
+    ],
+    "matchPercentage": 75,
+    "reason": "AutoCAD work for architectural aluminum/PVC systems relevant to detailing"
+  },
+  {
+    "url": "https://jobs.arcadis.com/careers/job/563671532663800",
+    "title": "BIM Coordinator",
+    "company": "ARCADIS SRL",
+    "location": [
+      "Bucuresti",
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:07:52.553Z",
+    "status": "scraped",
+    "tags": [
+      "BIM",
+      "Coordonare"
+    ],
+    "matchPercentage": 75,
+    "reason": "BIM coordination relevant to architectural practice at appropriate level"
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271882/Arcadis-Global-Excellence-Center/BIM-Coordinator",
+    "title": "BIM Coordinator",
+    "company": "ARCADIS EXCELLENCE CENTER ROMANIA S.A.",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:06:46.475Z",
+    "status": "scraped",
+    "tags": [
+      "BIM",
+      "Coordonare"
+    ],
+    "matchPercentage": 75,
+    "reason": "BIM coordination relevant to architectural practice"
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272256/AECOM-/BIM-Coordinator",
+    "title": "BIM Coordinator",
+    "company": "AECOM INGENIERIA SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:06:13.777Z",
+    "status": "scraped",
+    "tags": [
+      "BIM",
+      "Coordonare"
+    ],
+    "matchPercentage": 75,
+    "reason": "BIM coordination at engineering consultancy relevant to built environment"
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/Proiectantstructuriderezistenta",
+    "title": "Proiectant structuri de rezistență",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:35.322Z",
+    "status": "scraped",
+    "tags": [
+      "structuri",
+      "rezistenta"
+    ],
+    "matchPercentage": 70,
+    "reason": "Proiectarea structurilor de rezistenta foloseste partial competentele de dimensionare, rezistenta si CAD, iar nivelul de experienta este junior/mid."
+  },
+  {
+    "url": "https://www.jobrapid.ro/locuri-de-munca/desenator-tehnic-in-alba-iulia-1728634.html",
+    "title": "Desenator Tehnic",
+    "company": "RAPEL SRL",
+    "location": [
+      "Alba Iulia",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-29T12:15:37.724Z",
+    "status": "scraped",
+    "tags": [
+      "aplicatii CAD",
+      "proiectare arhitecturala"
+    ],
+    "matchPercentage": 70,
+    "reason": "Post entry-level de desenator tehnic într-un studio de design, relevant prin utilizarea CAD."
+  },
+  {
+    "url": "https://www.cabuzau.ro/despre-noi/cariere/responsabil-gis-departamentul-tehnic/",
+    "title": "Responsabil GIS – Departament Tehnic",
+    "company": "COMPANIA DE APĂ BACĂU SA",
+    "location": [
+      "Buzau",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:07:28.140Z",
+    "status": "scraped",
+    "tags": [
+      "GIS",
+      "managementul teritoriului"
+    ],
+    "matchPercentage": 68,
+    "reason": "Rol GIS în departament tehnic, folosește competențe de GIS și management al teritoriului, deși nu implică proiectare urbană."
+  },
+  {
+    "url": "https://multijobs.ro/job/desenator-tehnic-2d-cad/1769",
+    "title": "Desenator Tehnic 2D CAD",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Alba Iulia",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:15:42.731Z",
+    "status": "scraped",
+    "tags": [
+      "aplicatii CAD"
+    ],
+    "matchPercentage": 65,
+    "reason": "Desenator tehnic 2D CAD, entry-level și direct relevant pentru competența CAD."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/UGD5eq04pv",
+    "title": "Inginer Proiectare Constructii",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-29T12:31:50Z",
+    "status": "scraped",
+    "tags": [
+      "structuri",
+      "fundații"
     ],
     "matchPercentage": 62,
-    "reason": "Post tehnic AutoCAD în sisteme de tâmplărie aluminiu/PVC, potrivire parțială prin competențe CAD și documentații tehnice."
+    "reason": "Proiectare structurală cu dimensionare, fundații și documentații tehnice, parțial acoperite de competențele de structuri."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/7LMwg2NYRW",
+    "title": "Inginer Proiectare Constructii",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-29T12:31:50Z",
+    "status": "scraped",
+    "tags": [
+      "structuri",
+      "fundații"
+    ],
+    "matchPercentage": 62,
+    "reason": "Proiectare structurală cu dimensionare, fundații și documentații tehnice, parțial acoperite de competențele de structuri."
+  },
+  {
+    "url": "https://www.targuldecariere.ro/companii/e-infra-/18858/inginer-proiectare-constructii",
+    "title": "Inginer Proiectare Constructii",
+    "company": "E-INFRA S.A.",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:19:45.828Z",
+    "status": "scraped",
+    "tags": [
+      "structuri",
+      "fundații"
+    ],
+    "matchPercentage": 62,
+    "reason": "Proiectare structurală cu dimensionare, fundații și documentații tehnice, parțial acoperite de competențele de structuri."
   }
 ]
