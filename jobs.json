@@ -15,7 +15,7 @@
       "modelare BIM"
     ],
     "matchPercentage": 95,
-    "reason": "Arhitect stagiar/junior proaspт absolvent, cu indrumare OAR, proiectare, 3D/randari si documentatii tehnice (DTAC, PT, DDE) in AutoCAD/ArchiCAD/Revit."
+    "reason": "Stagiu/junior de arhitectură cu proiectare, documentații tehnice și BIM, exact pe profil."
   },
   {
     "url": "https://jobs.arcadis.com/careers/job/563671532663800",
@@ -31,10 +31,10 @@
     "status": "scraped",
     "tags": [
       "modelare BIM",
-      "documentatii tehnice"
+      "coordonare proiect"
     ],
-    "matchPercentage": 82,
-    "reason": "BIM Coordinator intermediate in proiecte de constructii, foloseste direct modelarea BIM."
+    "matchPercentage": 72,
+    "reason": "BIM Coordinator intermediar în AEC, folosește modelarea BIM și coordonarea proiectelor."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271882/Arcadis-Global-Excellence-Center/BIM-Coordinator",
@@ -48,46 +48,10 @@
     "status": "scraped",
     "tags": [
       "modelare BIM",
-      "documentatii tehnice"
+      "coordonare proiect"
     ],
-    "matchPercentage": 80,
-    "reason": "BIM Coordinator cu 1-5 ani experienta, nivel mid potrivit."
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/job_Arhitect",
-    "title": "Arhitect Proiectant",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:19:02.084Z",
-    "status": "scraped",
-    "tags": [
-      "proiectare arhitecturala",
-      "documentatii tehnice"
-    ],
-    "matchPercentage": 78,
-    "reason": "Proiectare arhitecturala directa (relevee, concepte, documentatie tehnica, CAD), nivel mid acceptabil cu minim 2 ani experienta, dar rolul este inchis."
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/jbArhitect",
-    "title": "Arhitect Proiectant",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:07:30.979Z",
-    "status": "scraped",
-    "tags": [
-      "proiectare arhitecturala",
-      "documentatii tehnice"
-    ],
-    "matchPercentage": 78,
-    "reason": "Proiectare arhitecturala directa (relevee, concepte, documentatie tehnica, CAD), nivel mid acceptabil cu minim 2 ani experienta, dar rolul este inchis."
+    "matchPercentage": 70,
+    "reason": "BIM Coordinator cu 1-5 ani experiență, potrivit pentru junior/mid în domeniul construcțiilor."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272256/AECOM-/BIM-Coordinator",
@@ -100,11 +64,10 @@
     "date": "2026-10-17T12:06:13.777Z",
     "status": "scraped",
     "tags": [
-      "modelare BIM",
-      "documentatii tehnice"
+      "modelare BIM"
     ],
-    "matchPercentage": 78,
-    "reason": "BIM Coordinator in consultanta de infrastructura, potrivire partiala pe modelare BIM."
+    "matchPercentage": 68,
+    "reason": "BIM Coordinator în infrastructură/built assets, relevă competențe BIM la nivel mid."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272255/AECOM-/BIM-Coordinator-–-Data-Centers",
@@ -117,29 +80,27 @@
     "date": "2026-10-17T12:06:13.777Z",
     "status": "scraped",
     "tags": [
-      "modelare BIM",
-      "documentatii tehnice"
+      "modelare BIM"
     ],
-    "matchPercentage": 78,
-    "reason": "BIM Coordinator pentru data centers, proiectare tehnica de cladiri cu modelare BIM."
+    "matchPercentage": 66,
+    "reason": "BIM Coordinator pentru data centers, rol tehnic BIM în domeniul construcțiilor, nivel potrivit."
   },
   {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/inginer-geodez-tehnician-topograf/99249516",
-    "title": "Inginer geodez / Tehnician topograf",
-    "company": "RR CAD-CAM DENTISTRY S.R.L.",
+    "url": "https://multijobs.ro/job/desenator-tehnic-2d-cad/1769",
+    "title": "Desenator Tehnic 2D CAD",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "Bucuresti",
+      "Alba Iulia",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:10:04.689Z",
+    "date": "2026-10-17T12:15:42.731Z",
     "status": "scraped",
     "tags": [
-      "cadastru GIS",
       "aplicatii CAD"
     ],
-    "matchPercentage": 70,
-    "reason": "Inginer geodez/topograf, potrivire directa cu cadastru/GIS si lucrul in AutoCAD."
+    "matchPercentage": 65,
+    "reason": "Post de desenator tehnic 2D CAD la nivel de intrare, care folosește direct competența AutoCAD, deși domeniul construcțiilor nu este detaliat."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-inginer-autocad-2",
@@ -159,133 +120,7 @@
       "AutoCAD",
       "documentatii tehnice"
     ],
-    "matchPercentage": 65,
-    "reason": "Tehnician AutoCAD pentru produse arhitecturale din aluminiu/PVC, potrivire partiala pe desenare tehnica."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/mentor-de-sketchup",
-    "title": "Mentor de Sketchup",
-    "company": "DECOR STIL PRACTIC DEEA SRL",
-    "location": [
-      "Remote",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:00:59.829Z",
-    "status": "scraped",
-    "tags": [
-      "modelare 3D",
-      "design interior"
-    ],
-    "matchPercentage": 65,
-    "reason": "Mentor SketchUp pentru design interior, foloseste direct modelarea 3D."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/7LMwg2NYRW",
-    "title": "Inginer Proiectare Constructii",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-10T14:32:42Z",
-    "status": "scraped",
-    "tags": [
-      "dimensionare structuri",
-      "documentatii tehnice"
-    ],
-    "matchPercentage": 63,
-    "reason": "Proiectare structurală și documentații tehnice folosesc parțial competențele de dimensionare și structuri, deși rolul este de inginerie civilă."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/UGD5eq04pv",
-    "title": "Inginer Proiectare Constructii",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-10T14:32:42Z",
-    "status": "scraped",
-    "tags": [
-      "structuri fundatii",
-      "documentatii tehnice"
-    ],
-    "matchPercentage": 63,
-    "reason": "Proiectare fundații și structuri cu documentații DTAC/PT, potrivire parțială cu competențele structurale."
-  },
-  {
-    "url": "https://www.targuldecariere.ro/companii/e-infra-/18858/inginer-proiectare-constructii",
-    "title": "Inginer Proiectare Constructii",
-    "company": "E-INFRA S.A.",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:19:45.828Z",
-    "status": "scraped",
-    "tags": [
-      "structuri fundatii",
-      "documentatii tehnice"
-    ],
-    "matchPercentage": 63,
-    "reason": "Proiectare structuri și fundații cu documentații tehnice, potrivire parțială cu competențele structurale."
-  },
-  {
-    "url": "https://www.cabuzau.ro/despre-noi/cariere/responsabil-gis-departamentul-tehnic/",
-    "title": "Responsabil GIS – Departament Tehnic",
-    "company": "COMPANIA DE APĂ BACĂU SA",
-    "location": [
-      "Buzau",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:07:28.140Z",
-    "status": "scraped",
-    "tags": [
-      "GIS",
-      "management teritorial"
-    ],
     "matchPercentage": 62,
-    "reason": "Rol de GIS in departamentul tehnic al unei companii de utilitati, direct relevant pentru competentele de cadastru, GIS si management al teritoriului."
-  },
-  {
-    "url": "https://multijobs.ro/job/desenator-tehnic-2d-cad/1769",
-    "title": "Desenator Tehnic 2D CAD",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Alba Iulia",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:15:42.731Z",
-    "status": "scraped",
-    "tags": [
-      "aplicatii CAD",
-      "desen tehnic"
-    ],
-    "matchPercentage": 60,
-    "reason": "Desenator tehnic 2D CAD, potrivire partiala prin competentele de desen tehnic AutoCAD."
-  },
-  {
-    "url": "https://www.jobradar24.ro/anunt/inginer-tehnic-proiectare-cad-457wve",
-    "title": "Inginer Tehnic HVAC – Proiectare CAD",
-    "company": "ROVA TECH INSTALL S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:15:12.061Z",
-    "status": "scraped",
-    "tags": [
-      "termotehnica",
-      "aplicatii CAD"
-    ],
-    "matchPercentage": 60,
-    "reason": "Proiectare HVAC in cladiri cu CAD, potrivire partiala prin termotehnica si instalatii."
+    "reason": "Tehnician AutoCAD entry-level pentru produse arhitecturale de aluminiu/PVC, folosește direct desenul tehnic CAD."
   }
 ]
