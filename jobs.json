@@ -11,45 +11,83 @@
     "date": "2026-11-16T13:11:14Z",
     "status": "tested",
     "tags": [
-      "proiectare arhitecturala"
+      "proiectare arhitecturala",
+      "documentatii tehnice"
     ],
-    "matchPercentage": 92,
-    "reason": "Proiectant arhitect cu 0 ani experiență ceruți, domeniu direct și nivel entry-level."
+    "matchPercentage": 95,
+    "reason": "Postul de proiectant arhitect fără experiență este foarte potrivit pentru un absolvent sau student în anii mari."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3441071",
-    "title": "ARHITECT CLADIRI",
-    "company": "ARHICON PROIECT SRL",
+    "url": "https://multijobs.ro/job/arhitect-urbanist/2336",
+    "title": "Arhitect/Urbanist",
+    "company": "LEF PROIECT SRL",
     "location": [
-      "FOCSANI",
+      "Bacau",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
-    "tags": [
-      "proiectare arhitecturala"
-    ],
-    "matchPercentage": 90,
-    "reason": "Arhitect clădiri cu mai puțin de 3 ani experiență, domeniu direct și nivel junior."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3440832",
-    "title": "PROIECTANT ARHITECT",
-    "company": "CADRO LANDSCAPE STUDIO S.R.L.",
-    "location": [
-      "SITITELEC",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
+    "date": "2026-11-17T12:57:49Z",
+    "status": "tested",
     "tags": [
       "proiectare arhitecturala",
-      "amenajare teritoriala"
+      "planificare urbanistica"
+    ],
+    "matchPercentage": 90,
+    "reason": "Postul de arhitect/urbanist corespunde direct domeniului de studiu și competențelor în arhitectură și urbanism."
+  },
+  {
+    "url": "https://multijobs.ro/job/arhitect-cladiri/6163",
+    "title": "ARHITECT CLADIRI",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Satu Mare",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T14:56:42Z",
+    "status": "tested",
+    "tags": [
+      "proiectare arhitecturala",
+      "documentatii tehnice"
     ],
     "matchPercentage": 85,
-    "reason": "Proiectant arhitect în studio de peisagistică, 0 ani experiență, potrivit pentru amenajare teritorială."
+    "reason": "Rolul de arhitect de clădiri se potrivește direct cu competențele de proiectare arhitecturală, iar nivelul nu este specificat ca senior."
+  },
+  {
+    "url": "https://multijobs.ro/job/arhitect/279",
+    "title": "arhitect",
+    "company": "AIBA PROIECT SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:07:43Z",
+    "status": "tested",
+    "tags": [
+      "proiectare arhitecturala",
+      "CAD"
+    ],
+    "matchPercentage": 85,
+    "reason": "Poziția de arhitect este relevantă direct pentru competențele de proiectare arhitecturală."
+  },
+  {
+    "url": "https://dreamjobs.ro/ro/job/dma-topografie/asistent-tehnic-in-topografie",
+    "title": "Asistent Tehnic în Topografie",
+    "company": "DMA TOPOGRAFIE S.R.L.",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:36:24Z",
+    "status": "tested",
+    "tags": [
+      "cadastru",
+      "CAD"
+    ],
+    "matchPercentage": 85,
+    "reason": "Rolul de asistent tehnic în topografie implică activități de cadastru și prelucrare CAD, relevante pentru competențele de cadastru și managementul teritoriului."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3417850",
@@ -66,47 +104,12 @@
       "cadastru",
       "GIS"
     ],
-    "matchPercentage": 85,
-    "reason": "Post de consilier cadastru cu studii superioare si zero ani experienta, domeniu direct relevant si nivel entry-level."
-  },
-  {
-    "url": "https://dreamjobs.ro/ro/job/alco-line-mg-srl/inginer-proiectare",
-    "title": "Inginer proiectare",
-    "company": "ALCO LINE M.G. SRL",
-    "location": [
-      "Timișoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T10:38:22Z",
-    "status": "tested",
-    "tags": [
-      "AutoCAD",
-      "Revit"
-    ],
-    "matchPercentage": 78,
-    "reason": "Acceptă explicit studiile de arhitectură, cere AutoCAD/Revit și documentație tehnică pentru fațade, nivel medior acceptabil."
-  },
-  {
-    "url": "https://multijobs.ro/job/arhitect/279",
-    "title": "arhitect",
-    "company": "AIBA PROIECT SRL",
-    "location": [
-      "Brașov",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T10:07:43Z",
-    "status": "tested",
-    "tags": [
-      "proiectare arhitecturala"
-    ],
     "matchPercentage": 75,
-    "reason": "Poziție de arhitect într-un birou de proiectare, domeniu direct potrivit și fără cerințe de senioritate în anunț."
+    "reason": "Consilier cadastru fără experiență cerută, se potrivește direct cu competențele de cadastru/GIS."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3417848",
-    "title": "TEHNICIAN CADASTRU",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3417818",
+    "title": "SUBINGINER CADASTRU",
     "company": "GLOBALMAP S.R.L.",
     "location": [
       "SUCEAVA",
@@ -120,43 +123,25 @@
       "GIS"
     ],
     "matchPercentage": 75,
-    "reason": "Tehnician cadastru fara experienta, domeniu relevant, desi nivelul de studii cerut este de liceu de specialitate."
+    "reason": "Subinginer cadastru entry-level, domeniu direct relevant pentru competențele de cadastru."
   },
   {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/7LMwg2NYRW?department=Electrogrup",
-    "title": "Inginer Proiectare Constructii",
-    "company": "ELECTROGRUP SA",
+    "url": "https://jobs.arcadis.com/careers/job/563671532663800",
+    "title": "BIM Coordinator",
+    "company": "ARCADIS SRL",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T10:55:15Z",
+    "date": "2026-11-17T09:32:38Z",
     "status": "tested",
     "tags": [
-      "structuri",
-      "fundatii"
+      "BIM",
+      "Revit"
     ],
-    "matchPercentage": 68,
-    "reason": "Proiectarea fundațiilor și structurilor, calculul dimensional și documentațiile DTAC/PT corespund competențelor structurale și tehnice însușite."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/UGD5eq04pv?department=Electrogrup",
-    "title": "Inginer Proiectare Constructii",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T10:55:15Z",
-    "status": "tested",
-    "tags": [
-      "structuri",
-      "PTh"
-    ],
-    "matchPercentage": 68,
-    "reason": "Sarcini de proiectare structurală, dimensionare și documentație tehnică, la nivel fără cerințe senior."
+    "matchPercentage": 72,
+    "reason": "Activitățile de coordonare BIM sunt relevante pentru competențele de modelare BIM, iar nivelul intermediar poate fi apropiat de mid."
   },
   {
     "url": "https://jobzz.ro/angajare-personal-cadastru-topografie-geodezie-pentru-birou-anunt_889476.html",
@@ -171,10 +156,64 @@
     "status": "tested",
     "tags": [
       "cadastru",
-      "GIS"
+      "topografie"
+    ],
+    "matchPercentage": 72,
+    "reason": "Activitate de cadastru și topografie, domeniu permis, nivel de început potrivit absolventului."
+  },
+  {
+    "url": "https://jobs.arcadis.com/careers/job/563671532887266",
+    "title": "Civil 3D Designer",
+    "company": "ARCADIS SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:02:59Z",
+    "status": "tested",
+    "tags": [
+      "urban design",
+      "CAD"
     ],
     "matchPercentage": 68,
-    "reason": "Domeniul cadastru se potriveste si nivelul nu cere vechime de senior, desi se prefera studii de geodezie si experienta in documentatii cadastrale."
+    "reason": "Proiectare 2D/3D pentru dezvoltare urbana si infrastructura, folosind CAD intr-un rol de designer fara senioritate."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/7LMwg2NYRW",
+    "title": "Inginer Proiectare Constructii",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:41:11Z",
+    "status": "scraped",
+    "tags": [
+      "dimensionare",
+      "structuri"
+    ],
+    "matchPercentage": 62,
+    "reason": "Proiectare structurala si fundatii pentru constructii, potrivire partiala cu competentele de dimensionare si structuri."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/UGD5eq04pv",
+    "title": "Inginer Proiectare Constructii",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:41:11Z",
+    "status": "scraped",
+    "tags": [
+      "dimensionare",
+      "structuri"
+    ],
+    "matchPercentage": 62,
+    "reason": "Proiectare structurala si fundatii pentru constructii, potrivire partiala cu competentele de rezistenta si dimensionare."
   },
   {
     "url": "https://www.targuldecariere.ro/companii/e-infra-/18858/inginer-proiectare-constructii",
@@ -188,10 +227,46 @@
     "date": "2026-11-17T12:36:59Z",
     "status": "tested",
     "tags": [
-      "fundatii",
-      "PTh"
+      "dimensionare",
+      "structuri"
     ],
-    "matchPercentage": 65,
-    "reason": "Proiectarea construcțiilor folosește competențele de structuri și fundații, fără cerință de senior."
+    "matchPercentage": 62,
+    "reason": "Proiectare structurala si fundatii, potrivire partiala cu competentele de dimensionare si stabilitate."
+  },
+  {
+    "url": "https://www.cabuzau.ro/despre-noi/cariere/responsabil-gis-departamentul-tehnic/",
+    "title": "Responsabil GIS – Departament Tehnic",
+    "company": "COMPANIA DE APĂ BACĂU SA",
+    "location": [
+      "Buzau",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:27:04Z",
+    "status": "tested",
+    "tags": [
+      "GIS",
+      "managementul teritoriului"
+    ],
+    "matchPercentage": 62,
+    "reason": "Responsabil GIS în departament tehnic, utilizare GIS/managementul teritoriului, potrivire parțială de domeniu."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272955/E-INFRA/Inginer-Proiectare-Constructii",
+    "title": "Inginer Proiectare Constructii",
+    "company": "E-INFRA S.A.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T14:46:57Z",
+    "status": "tested",
+    "tags": [
+      "dimensionare",
+      "structuri"
+    ],
+    "matchPercentage": 60,
+    "reason": "Proiectare constructii cu elemente structurale, potrivire partiala cu competentele tehnice de structuri."
   }
 ]
